@@ -1,0 +1,11 @@
+Learning programming is a journey, not a destination.
+Every line of code you write makes you a little better.
+
+Python is widely used in data engineering, web development,
+automation, and artificial intelligence.
+
+Mistakes are part of learning.
+Debugging teaches you how things really work.
+
+Keep practicing every day.
+Consistency beats motivation.
